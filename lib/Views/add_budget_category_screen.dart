@@ -38,7 +38,7 @@ class _AddEditBudgetCategoryScreenState
           await FirebaseFirestore.instance.collection('categories').add({
             'name': _nameController.text,
             'budgeted': double.parse(_budgetedController.text),
-            'pent': 0.0,
+            'spent': 0.0,
           });
         } else {
           await widget.category!.reference.update({
