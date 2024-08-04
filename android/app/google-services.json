@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81467013883",
+    "project_id": "budgetin-app-dc454",
+    "storage_bucket": "budgetin-app-dc454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81467013883:android:ca01088a2d38a442008e5e",
+        "android_client_info": {
+          "package_name": "com.example.personal_budgeting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiAkyzJCYaSRDkHRMDawcCC_JRS-b58Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
